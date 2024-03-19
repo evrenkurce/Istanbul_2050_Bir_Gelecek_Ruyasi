@@ -1,5 +1,5 @@
 # Istanbul_2050_Bir_Gelecek_Ruyasi
-İstanbul 2050: Bir Gelecek Rüyası temalı, yapay zeka tarafından metin, görsel gibi içeriklerle oluşturulmuş resim sergisi web sitesi
+İstanbul 2050: Bir Gelecek Rüyası temalı, yapay zeka tarafından metin, görsel gibi içeriklerle oluşturulmuş resim sergisi web sitesi için promptlar ve proje yapım aşamaları
 
 
 1) ChatGPT'ye web sitesi tasrlaması için aşağıdaki prompt girildi:
