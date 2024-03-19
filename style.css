@@ -1,0 +1,58 @@
+       body {
+           font-family: Arial, sans-serif;
+           margin: 0;
+           padding: 0;
+           box-sizing: border-box;
+           background-color: #f3f3f3;
+           color: #333;
+       }
+       header {
+           background-color: #333;
+           padding: 20px 0;
+           text-align: center;
+           position: fixed;
+           width: 100%;
+           top: 0;
+           z-index: 999; /* Eğer sayfa içeriğinin üzerine çıkmasını istiyorsanız bir z-index değeri verin */
+       }
+       .menu {
+           list-style-type: none;
+           margin: 0;
+           padding: 0;
+       }
+       .menu li {
+           display: inline;
+       }
+       .menu a {
+           display: inline-block;
+           color: white;
+           text-align: center;
+           padding: 14px 16px;
+           text-decoration: none;
+           transition: background-color 0.3s;
+       }
+       .menu a:hover {
+           background-color: #555;
+       }
+       .container {
+           padding-top: 70px; /* Menü sabit olduğu için içerik başlangıcı menünün altına kayacak, bu yüzden bir boşluk ekleyin */
+           text-align: center;
+       }
+       img {
+           max-width: 100%;
+           height: auto;
+           border-radius: 8px;
+           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+       }
+       section {
+           padding: 50px 0;
+       }
+       h1, h2 {
+           color: #333;
+       }
+       footer {
+           background-color: #333;
+           color: #fff;
+           text-align: center;
+           padding: 20px 0;
+       }
