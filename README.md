@@ -75,4 +75,8 @@ G. Sürdürülebilir Gelecek:
 
 "Web sitesinde en üstte bulunan menü kısımları sabit kalması için kodda düzeltme yap, sayfa aşağı kaydırılsa bile menüler hep görünür olsun:"
 
+
+10) ChatGPT'ye css dosyasını HTML dosyası içeriğinden ayrı olması için prompt girildi ve style.css ile index.html dosyaları ayrıldı.
+"https://chat.openai.com/share/a90c85bb-9249-404b-bd8c-20f73f2b7846"
+
 Son hali index.html olarak kaydedildi.
